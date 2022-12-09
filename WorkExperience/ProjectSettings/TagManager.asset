@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background3
+    uniqueID: 2663809605
+    locked: 0
+  - name: Background2
+    uniqueID: 2521557173
+    locked: 0
+  - name: Background1
+    uniqueID: 622404221
+    locked: 0
+  - name: Ground
+    uniqueID: 3283914063
+    locked: 0
+  - name: Foreground
+    uniqueID: 4149969301
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
