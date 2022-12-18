@@ -459,7 +459,7 @@ TextureImporter:
       213: -3301745522602621413
     second: VillageSheetMajor_151
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -480,6 +480,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -518,6 +519,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -533,6 +535,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3748,6 +3774,159 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      VillageSheetMajor_4: 3923899070254095789
+      VillageSheetMajor_120: 682069569373997331
+      VillageSheetMajor_55: 3244260576251252948
+      VillageSheetMajor_115: 1308860461749009693
+      VillageSheetMajor_126: -9163118194118557818
+      VillageSheetMajor_15: 1260901468474940537
+      VillageSheetMajor_136: -4252484465290058157
+      VillageSheetMajor_66: 4931129006284996367
+      VillageSheetMajor_38: -4919389935035686936
+      VillageSheetMajor_148: 2704739413319033818
+      VillageSheetMajor_127: -6870353653808012628
+      VillageSheetMajor_45: 6684316673225728850
+      VillageSheetMajor_86: 1790239771043784263
+      VillageSheetMajor_100: -9037359250935263195
+      VillageSheetMajor_122: -8721849348405159008
+      VillageSheetMajor_28: 4008624339064795795
+      VillageSheetMajor_58: 1730047390439710219
+      VillageSheetMajor_75: 9049146531108231984
+      VillageSheetMajor_16: -7877053629351886883
+      VillageSheetMajor_95: -1862796903034174376
+      VillageSheetMajor_135: 8929905502864620524
+      VillageSheetMajor_83: 1279233619736036390
+      VillageSheetMajor_32: -2818093632577238408
+      VillageSheetMajor_44: -2363982804317504034
+      VillageSheetMajor_35: 7516169484391998873
+      VillageSheetMajor_91: -6535535283937352401
+      VillageSheetMajor_138: -7141374752281748825
+      VillageSheetMajor_23: 2584944454237741520
+      VillageSheetMajor_93: -1722880545957485082
+      VillageSheetMajor_56: -7543506663249290650
+      VillageSheetMajor_50: -2802103111131093218
+      VillageSheetMajor_101: -2280747527755372537
+      VillageSheetMajor_78: 316183002569184392
+      VillageSheetMajor_70: 3175724276011999314
+      VillageSheetMajor_149: 8583271781684482333
+      VillageSheetMajor_17: -6287191414267350202
+      VillageSheetMajor_74: -7553250482716323974
+      VillageSheetMajor_49: -1702633930604912761
+      VillageSheetMajor_73: -1323951018713771264
+      VillageSheetMajor_20: -7945803845810515513
+      VillageSheetMajor_54: 2070317736397205349
+      VillageSheetMajor_107: -9133636702273388066
+      VillageSheetMajor_145: 267345324263717135
+      VillageSheetMajor_19: 4481758534670121312
+      VillageSheetMajor_104: -5973963286695819948
+      VillageSheetMajor_137: 8465902167069272927
+      VillageSheetMajor_65: -2104969229458809453
+      VillageSheetMajor_108: 7612129495330445051
+      VillageSheetMajor_18: -6681463100740554465
+      VillageSheetMajor_125: 477048804089916916
+      VillageSheetMajor_68: 6370387056156020465
+      VillageSheetMajor_85: -1405623803161649558
+      VillageSheetMajor_133: -3995395859429904707
+      VillageSheetMajor_117: 6174048855275498571
+      VillageSheetMajor_13: 8375278110980608192
+      VillageSheetMajor_141: 1904329746477538715
+      VillageSheetMajor_21: -5925405879888433074
+      VillageSheetMajor_81: -1577640981028374432
+      VillageSheetMajor_97: 5630332748529054932
+      VillageSheetMajor_59: -4033584187015289560
+      VillageSheetMajor_71: 7291658459847597257
+      VillageSheetMajor_61: 7110224443163831945
+      VillageSheetMajor_98: -6544170833091257466
+      VillageSheetMajor_111: -6093702316885088263
+      VillageSheetMajor_134: -1755498476503386614
+      VillageSheetMajor_106: -4641763923405190847
+      VillageSheetMajor_39: -1480708296753986570
+      VillageSheetMajor_40: -5886695799127339655
+      VillageSheetMajor_31: -8603404336194145017
+      VillageSheetMajor_72: -3948032609740922460
+      VillageSheetMajor_92: -1786117220495613589
+      VillageSheetMajor_12: -8348650873963123075
+      VillageSheetMajor_116: 1202431212077084766
+      VillageSheetMajor_11: 7312192244472624815
+      VillageSheetMajor_146: 2637915100589204466
+      VillageSheetMajor_110: 4656381824015356993
+      VillageSheetMajor_69: -4488381658314563553
+      VillageSheetMajor_62: 3884245479095417730
+      VillageSheetMajor_34: -8175655102937670690
+      VillageSheetMajor_90: 1869094885714035925
+      VillageSheetMajor_53: 8496962963598017252
+      VillageSheetMajor_51: -1599100954604786694
+      VillageSheetMajor_124: 6394303500657563785
+      VillageSheetMajor_76: 6345399635806910622
+      VillageSheetMajor_24: 6760666708202966074
+      VillageSheetMajor_37: 7686383503956672980
+      VillageSheetMajor_14: 8181811161760335503
+      VillageSheetMajor_144: 6975048901273152279
+      VillageSheetMajor_143: 4580511311273261906
+      VillageSheetMajor_123: -3291113198048322331
+      VillageSheetMajor_67: -6670209238143357223
+      VillageSheetMajor_0: 6199129043940217723
+      VillageSheetMajor_10: 2477831351302528814
+      VillageSheetMajor_140: -3669259697874622575
+      VillageSheetMajor_25: 2454740977073714069
+      VillageSheetMajor_47: -5210628891761925237
+      VillageSheetMajor_2: -1101013901808152084
+      VillageSheetMajor_46: 5152578313678069728
+      VillageSheetMajor_77: 628697167167025306
+      VillageSheetMajor_147: 6721999827569344008
+      VillageSheetMajor_27: 5868654767662530729
+      VillageSheetMajor_29: -7116538544869534692
+      VillageSheetMajor_82: 2363286420069743739
+      VillageSheetMajor_41: -7489236264979419219
+      VillageSheetMajor_52: 2073811515691211900
+      VillageSheetMajor_57: 9206048525982294025
+      VillageSheetMajor_88: 4247384567784529864
+      VillageSheetMajor_5: -3796731779319987155
+      VillageSheetMajor_119: 4639962380743011075
+      VillageSheetMajor_26: -1919864986685890785
+      VillageSheetMajor_94: -563689680550967876
+      VillageSheetMajor_151: -3301745522602621413
+      VillageSheetMajor_64: -749075735135643987
+      VillageSheetMajor_42: 1374787640460501190
+      VillageSheetMajor_102: -2230851657473079122
+      VillageSheetMajor_129: 8480680726035866579
+      VillageSheetMajor_33: -3231023079933445539
+      VillageSheetMajor_105: -3296595699008020732
+      VillageSheetMajor_30: 1135683897055657403
+      VillageSheetMajor_109: 5229836672613739754
+      VillageSheetMajor_150: -7794406060440089434
+      VillageSheetMajor_121: -6735691782209898559
+      VillageSheetMajor_63: -5853803260802759117
+      VillageSheetMajor_118: -8317016834484268466
+      VillageSheetMajor_132: 2432349810637648497
+      VillageSheetMajor_36: -9155319040760783058
+      VillageSheetMajor_128: 9078123842121145718
+      VillageSheetMajor_130: -8713240927231218770
+      VillageSheetMajor_79: 4795299077133833931
+      VillageSheetMajor_9: 3676590718083333156
+      VillageSheetMajor_114: 4017750147676801220
+      VillageSheetMajor_99: 1490916150182209672
+      VillageSheetMajor_139: 815578912123967659
+      VillageSheetMajor_89: 4833686627921195500
+      VillageSheetMajor_22: -1311954203530759714
+      VillageSheetMajor_3: -4277368597905780064
+      VillageSheetMajor_7: 3467130003768527180
+      VillageSheetMajor_103: -2704503978533406790
+      VillageSheetMajor_112: -5024433645849254212
+      VillageSheetMajor_6: -145138887092416690
+      VillageSheetMajor_48: 1919566143799646635
+      VillageSheetMajor_8: -4755563550355321777
+      VillageSheetMajor_96: -3845262989741452984
+      VillageSheetMajor_80: -2627037226733902760
+      VillageSheetMajor_131: 1687836721634644158
+      VillageSheetMajor_84: -5883079823417999003
+      VillageSheetMajor_113: -3817006082492156049
+      VillageSheetMajor_60: 9179938716321808299
+      VillageSheetMajor_1: -7520756679583451906
+      VillageSheetMajor_87: -4354035276490166534
+      VillageSheetMajor_142: 2038315779386159339
+      VillageSheetMajor_43: -1651328004453890613
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

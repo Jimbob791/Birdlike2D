@@ -63,7 +63,7 @@ TextureImporter:
       213: -6574233468063634865
     second: PlayerSheetMajor_19
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +84,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,6 +123,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -137,6 +139,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -580,6 +606,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      PlayerSheetMajor_19: -6574233468063634865
+      PlayerSheetMajor_2: 1872433537677158646
+      PlayerSheetMajor_5: -7509439117259310324
+      PlayerSheetMajor_9: 2211110262852458634
+      PlayerSheetMajor_16: 5748437028590897033
+      PlayerSheetMajor_13: 4496159541566785337
+      PlayerSheetMajor_7: 1358482574583657794
+      PlayerSheetMajor_17: 6774699105272628490
+      PlayerSheetMajor_4: -5587785272914177098
+      PlayerSheetMajor_18: -4761212756287418525
+      PlayerSheetMajor_1: 1416236584366824544
+      PlayerSheetMajor_6: 6662257656745022693
+      PlayerSheetMajor_12: -2999183334088037452
+      PlayerSheetMajor_11: 4842876140172833331
+      PlayerSheetMajor_3: 7132220946911260394
+      PlayerSheetMajor_14: -6437686462841451430
+      PlayerSheetMajor_10: -4446859779914853196
+      PlayerSheetMajor_15: -188468352816958189
+      PlayerSheetMajor_0: 8643842877464930217
+      PlayerSheetMajor_8: 6240496810382950053
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

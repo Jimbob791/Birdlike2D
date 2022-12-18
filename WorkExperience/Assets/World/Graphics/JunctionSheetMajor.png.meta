@@ -384,7 +384,7 @@ TextureImporter:
       213: -219949790700085420
     second: JunctionSheetMajor_126
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -405,6 +405,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -443,6 +444,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -458,6 +460,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3148,6 +3174,134 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      JunctionSheetMajor_109: -6137067650389304116
+      JunctionSheetMajor_54: -8718089356569062561
+      JunctionSheetMajor_99: 2626996554954569483
+      JunctionSheetMajor_20: -3100012646116167411
+      JunctionSheetMajor_55: -479006358398076254
+      JunctionSheetMajor_107: 749124941910177643
+      JunctionSheetMajor_35: 7234841372633109377
+      JunctionSheetMajor_36: -5189595212165168376
+      JunctionSheetMajor_59: 7310720179002773614
+      JunctionSheetMajor_4: 3500504007637186539
+      JunctionSheetMajor_19: 8555456517045322296
+      JunctionSheetMajor_53: 7849551798572559724
+      JunctionSheetMajor_106: -8120336129286798615
+      JunctionSheetMajor_66: -3095980994408372353
+      JunctionSheetMajor_81: 1774873033858798255
+      JunctionSheetMajor_79: 2702699086902056418
+      JunctionSheetMajor_83: 3593244547586097655
+      JunctionSheetMajor_15: -5242526253215138525
+      JunctionSheetMajor_9: 5207107105582275064
+      JunctionSheetMajor_105: -2604656247825654741
+      JunctionSheetMajor_104: -5275538230500287435
+      JunctionSheetMajor_113: -1749239519608895773
+      JunctionSheetMajor_58: -1174266316021970823
+      JunctionSheetMajor_75: -8795433799044656857
+      JunctionSheetMajor_22: -4984969140378870697
+      JunctionSheetMajor_33: 7614946742792564389
+      JunctionSheetMajor_124: -48617953851805995
+      JunctionSheetMajor_72: -2871409203419575768
+      JunctionSheetMajor_98: -4179230030551476795
+      JunctionSheetMajor_118: -6356142067779368231
+      JunctionSheetMajor_26: 931196561498351641
+      JunctionSheetMajor_86: 2007712990332521828
+      JunctionSheetMajor_94: 2162638629493331051
+      JunctionSheetMajor_121: 340310945706267859
+      JunctionSheetMajor_42: -9024336413306097979
+      JunctionSheetMajor_70: -7933833147015247162
+      JunctionSheetMajor_56: -4332432735110801442
+      JunctionSheetMajor_76: -2270586731924694996
+      JunctionSheetMajor_112: 2710469790334218149
+      JunctionSheetMajor_39: 1785120045745967068
+      JunctionSheetMajor_32: 3917901278800885647
+      JunctionSheetMajor_68: 1561368036655637056
+      JunctionSheetMajor_46: -7310741524446999693
+      JunctionSheetMajor_16: 3768134196056487371
+      JunctionSheetMajor_18: -6131373676017960491
+      JunctionSheetMajor_122: 3413174438012190454
+      JunctionSheetMajor_49: 4628901837987429639
+      JunctionSheetMajor_43: -1428825555217593770
+      JunctionSheetMajor_61: 190473850327967518
+      JunctionSheetMajor_8: -8196721080339287885
+      JunctionSheetMajor_21: -5989307694060570672
+      JunctionSheetMajor_62: -7501667384960721853
+      JunctionSheetMajor_45: -5406083794044811766
+      JunctionSheetMajor_65: 288261332412754038
+      JunctionSheetMajor_10: 8696473867337773778
+      JunctionSheetMajor_116: -7407842568188255193
+      JunctionSheetMajor_12: -5241181044255356422
+      JunctionSheetMajor_103: 925886550181434952
+      JunctionSheetMajor_123: 4461378547829011472
+      JunctionSheetMajor_64: 6454448088589393275
+      JunctionSheetMajor_25: -970103515872360002
+      JunctionSheetMajor_40: -7147014325250827807
+      JunctionSheetMajor_17: -6721852508957707001
+      JunctionSheetMajor_84: -6284143430840014171
+      JunctionSheetMajor_90: 190888760483396044
+      JunctionSheetMajor_93: -2594555687641077451
+      JunctionSheetMajor_14: 6043875985593278738
+      JunctionSheetMajor_102: -2852881823682977624
+      JunctionSheetMajor_6: -2893655896423556973
+      JunctionSheetMajor_13: -2445568066013813025
+      JunctionSheetMajor_34: 3265259260847539951
+      JunctionSheetMajor_38: -2344258688851683706
+      JunctionSheetMajor_111: -1107462374244154772
+      JunctionSheetMajor_91: -3820384022010351329
+      JunctionSheetMajor_37: -751569965670363193
+      JunctionSheetMajor_97: 2606276089495554360
+      JunctionSheetMajor_50: -3749592056500441456
+      JunctionSheetMajor_30: -7932567910380444585
+      JunctionSheetMajor_96: 6163878931987355260
+      JunctionSheetMajor_119: -6654397821317005418
+      JunctionSheetMajor_7: -6990359506021840988
+      JunctionSheetMajor_115: 1390380092991419806
+      JunctionSheetMajor_47: 3494130747645488397
+      JunctionSheetMajor_57: -3053161284795055517
+      JunctionSheetMajor_87: 3375163035668332919
+      JunctionSheetMajor_24: -4950592191170626178
+      JunctionSheetMajor_2: 5953721206429825439
+      JunctionSheetMajor_5: -8992657395972006898
+      JunctionSheetMajor_11: -5978201471401266182
+      JunctionSheetMajor_0: -4608600965333125789
+      JunctionSheetMajor_100: 2686673374704834444
+      JunctionSheetMajor_114: 7726448176777549008
+      JunctionSheetMajor_110: -995395942765304541
+      JunctionSheetMajor_23: 7757182216057655443
+      JunctionSheetMajor_27: -8047272878167283935
+      JunctionSheetMajor_85: -1257686508197438145
+      JunctionSheetMajor_108: 7567198220013734596
+      JunctionSheetMajor_73: 8810421610916260175
+      JunctionSheetMajor_44: -3350496912952656280
+      JunctionSheetMajor_60: -8825907551747241696
+      JunctionSheetMajor_92: -3483609270926501221
+      JunctionSheetMajor_78: 8924846688183107511
+      JunctionSheetMajor_71: -6584712608175589164
+      JunctionSheetMajor_101: 191214603243433539
+      JunctionSheetMajor_126: -219949790700085420
+      JunctionSheetMajor_82: 3790851971954565597
+      JunctionSheetMajor_74: 72952737204920340
+      JunctionSheetMajor_88: 7186874386122500940
+      JunctionSheetMajor_77: -8778056117448495427
+      JunctionSheetMajor_80: 2715313410980566060
+      JunctionSheetMajor_67: -4072476186781934071
+      JunctionSheetMajor_117: 3821472899994760104
+      JunctionSheetMajor_125: 4424574220323818012
+      JunctionSheetMajor_89: 5669466294875414943
+      JunctionSheetMajor_48: 4050076958954327995
+      JunctionSheetMajor_3: -6604636742773432142
+      JunctionSheetMajor_31: -1592458307058623548
+      JunctionSheetMajor_69: 5761746661772681160
+      JunctionSheetMajor_28: 4510200493668986986
+      JunctionSheetMajor_95: -7661269172552623268
+      JunctionSheetMajor_1: -8859762043554968745
+      JunctionSheetMajor_120: -1250213496755647612
+      JunctionSheetMajor_52: 3282658419379426727
+      JunctionSheetMajor_29: 4906663777445583653
+      JunctionSheetMajor_51: -9159239478409545516
+      JunctionSheetMajor_63: 2768439973954883951
+      JunctionSheetMajor_41: -7608704676056382990
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
